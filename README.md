@@ -15,22 +15,22 @@ Here are some ideas to get you started:
 -->
 
 🌱Skills
-JAVA, JavaScript, HTML5, CSS3
+-JAVA, JavaScript, HTML5, CSS3
 
 🌱Framework/Library
-Srping, Vue.js
+-Srping, Vue.js
 
 🌱Server
-MySQL, Apache(Tomcat)
+-MySQL, Apache(Tomcat)
 
 🌱Tooling / DevOps
-GitHub
+-GitHub
 
 🌱Environment
-Window
+-Window
 
 🌱ETC
-Notion(https://harmonious-haircut-f39.notion.site/0ad9e0788bcf4eae968b6b61bb43f360)
+-Notion(https://harmonious-haircut-f39.notion.site/0ad9e0788bcf4eae968b6b61bb43f360)
 
 
 
